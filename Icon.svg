@@ -1,0 +1,24 @@
+<svg id="Group_1" data-name="Group 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192 195.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4dd0e4;
+      }
+
+      .cls-2 {
+        filter: url(#Path_1);
+      }
+    </style>
+    <filter id="Path_1" x="19.5" y="7.5" width="172" height="188" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.478"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="192" height="192" rx="35"/>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="Path_1-2" data-name="Path 1" d="M40,40l68.923,128H152L83.077,40Z" transform="translate(-0.5 -7.5)"/>
+  </g>
+</svg>
