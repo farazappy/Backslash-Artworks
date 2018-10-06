@@ -1,6 +1,6 @@
 # Backslash-Artworks
 
-![Alt text](/Retro_logo.png)
+![Alt text](/Poster_fhd.png)
 
 
 >Artworks for Backslash - the IT Fest at Wilson College, Mumbai.<br>
