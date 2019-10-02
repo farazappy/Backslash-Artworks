@@ -4,4 +4,4 @@
 
 
 >Artworks for Backslash - the IT Fest at Wilson College, Mumbai.<br>
->Built using Adobe XD.
+>Built using Adobe.
