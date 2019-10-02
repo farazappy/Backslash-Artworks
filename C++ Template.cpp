@@ -12,6 +12,8 @@ int main() {
 	for (int i=0; i<num; i++){
 	    cin >> arr[i];
 	}
+	
+	cout << "Input number is " << num << endl;
 }
 
 
